@@ -10,4 +10,3 @@ Tools:
 [<img height="80" width="80" src="https://cdn.simpleicons.org/python" alt="python logo"/>](https://python.org)
 
 [<img height="80" width="80" src="ibis.jpg" alt="ibis logo" />](https://ibis-project.org/)
-![image](https://github.com/user-attachments/assets/5fde790a-69da-4a7f-8dd6-5091a4070852)
